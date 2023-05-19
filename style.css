@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+
+:root{
+    --grey : hsl(0, 0%, 59%);
+    --dark-grey : hsl(0, 0%, 17%)
+    --font : 'Rubik', sans-serif;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 600ms;
+}
+
